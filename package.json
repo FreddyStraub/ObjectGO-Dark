@@ -1,0 +1,33 @@
+{
+  "name": "objectgo-dark",
+  "displayName": "ObjectGO Dark",
+  "description": "ObjectGO Dark Theme",
+  "version": "0.0.1",
+  "publisher": "FreddyStraub",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "keywords": [
+    "object",
+    "objectgo",
+    "go",
+    "dark",
+    "freddy",
+    "straub",
+    "freddy straub",
+    "freddystraub",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ObjectGO Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ObjectGO Dark-color-theme.json"
+      }
+    ]
+  }
+}
