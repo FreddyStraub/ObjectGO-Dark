@@ -4,6 +4,10 @@
   "description": "ObjectGO Dark Theme",
   "version": "0.0.1",
   "publisher": "FreddyStraub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreddyStraub/ObjectGO-Dark"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
